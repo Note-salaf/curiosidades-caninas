@@ -77,8 +77,8 @@ As cores do projeto foram centralizadas utilizando **variáveis CSS no `:root`**
 
 - Melhorar tratamento de erros da API
 - Melhorar layout
-- Adicionar botão para gerar nova curiosidade
 
 ---
+
 
 💡 Projeto criado para estudo de **JavaScript, consumo de API e organização de código**.
