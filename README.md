@@ -11,7 +11,7 @@ A aplicação busca um fato aleatório sobre cachorros e exibe na interface.
 
 Acesse a aplicação online:
 
-🔗 **[Ver Demo](COLE_AQUI_O_LINK_DA_DEMO)**
+🔗 **[Ver Demo](https://note-salaf.github.io/curiosidades-caninas/)**
 
 ## ⚙️ Tecnologias utilizadas
 
@@ -82,3 +82,4 @@ As cores do projeto foram centralizadas utilizando **variáveis CSS no `:root`**
 
 
 💡 Projeto criado para estudo de **JavaScript, consumo de API e organização de código**.
+
